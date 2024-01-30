@@ -10,7 +10,7 @@
 }
 
 .footer_icons {
-    width: 12%;
+    width: 22%;
     display: flex;
     justify-content: space-between;
     margin-left: 10px;
@@ -64,4 +64,3 @@
     color: #fff;
 
 }
-
